@@ -1,0 +1,11 @@
+{
+  "companies": {
+    "air_barbados": {
+      "name": "Air Barbados",
+      "location": "123 Place, Toronto, ON",
+      "logo": "assets/logos/logo_air_barbados.png",
+      "currency": "CAD",
+      "timezone": "AST"
+    }
+  }
+}

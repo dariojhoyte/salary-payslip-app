@@ -1,0 +1,22 @@
+{
+  "users": {
+    "hr_admin": {
+      "name": "HR Admin",
+      "salt": "920b8a6609698242551e3f47f0aa3a47",
+      "iterations": 200000,
+      "password_hash": "0ae20bfd7913e15930126b504c5251cca12658ba0baa539b3d741e6dc4d17171"
+    },
+    "finance_admin": {
+      "name": "Finance Admin",
+      "salt": "7499c1d735252b1e114517695dbedf82",
+      "iterations": 200000,
+      "password_hash": "edf479b8594ab54bf3079c496523c2acae575819edf338f6b507723399a4a997"
+    },
+    "payroll_admin": {
+      "name": "Payroll Admin",
+      "salt": "c3b5e892a7d64d3408d67dc4711f38cf",
+      "iterations": 200000,
+      "password_hash": "e9a24a1ecb2ae49eb167fb1935f6e920e4b6a65b6004d61043afc94774d5d60e"
+    }
+  }
+}

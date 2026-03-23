@@ -179,7 +179,6 @@ Note: these credentials are for testing purposes.
 * Streamlit (Pyhton UI Framework)
 * HTML
 * JSON
-* PyPDF
 
 ---
 
